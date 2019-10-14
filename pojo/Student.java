@@ -7,10 +7,10 @@ public class Student implements Serializable{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private String id; // 学号
-	private String name; // 姓名
-	private double score; // 分数
-	private String gender; // 性别
+	private String id; // 瀛﹀彿
+	private String name; // 瀛︾敓濮撳悕
+	private double score; // 鎴愮哗
+	private String gender; // 鎬у埆
 	public Student() {
 	}
 	public Student(String id, String name, double score, String gender) {
